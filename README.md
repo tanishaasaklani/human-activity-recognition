@@ -51,6 +51,3 @@ Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 ## 📬 Contact
 Created by **Tanisha Saklani** - MCA AI & DS Student.
 Open to feedback!
-## Run
-```bash
-pip install -r requirements.txt
